@@ -9,6 +9,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<<<<<<< HEAD
 ## Introduction
 ```{r}
 library(lobstr)
@@ -22,4 +23,3 @@ obj_addr(x)
 obj_addr(y)
 
 ```
-
