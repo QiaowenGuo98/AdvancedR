@@ -1,0 +1,12 @@
+---
+title: "Chapter 2 Names and values"
+author: "Qiaowen"
+date: "7/29/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Names and values
