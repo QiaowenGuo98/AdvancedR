@@ -1,0 +1,24 @@
+---
+title: "Chapter 2 Names and values"
+author: "Qiaowen"
+date: "7/29/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+```{r}
+library(lobstr)
+```
+
+## Binding basics
+```{r}
+x <- c(1, 2, 3)
+y <- x
+obj_addr(x)
+obj_addr(y)
+```
+
